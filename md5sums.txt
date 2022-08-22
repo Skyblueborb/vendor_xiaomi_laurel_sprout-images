@@ -10,9 +10,9 @@ e6b2f77000511800a270ddc588e65895  ./images/cmnlib.img
 841c7ae81e775386e49757b00d8523e6  ./images/qupfw.img
 0e27b5df2e81f212d3162549ff61738c  ./images/uefisecapp.img
 35b136b3fbd1d6a9aa3258c6a4469932  ./images/tz.img
-9b7878e4881ae468c40ac2d6c6d1ae50  ./images/abl.img
+ff495a19352aaf6659b1154787e159b8  ./images/abl.img
 dc41a585151af11473cee4d2263c2766  ./images/devcfg.img
 02d4f4035b78734527a6106856d02c12  ./images/hyp.img
 b427c609715fced0c3e2282bba4c4977  ./images/xbl.img
 fdd8a8609860cacf4cb9594ed92246e8  ./images/cmnlib64.img
-f5ae33490b91102ff7961d908ffa3a07  ./vendor.img
+aa9a3cd922be60fd2fb44d8f083aaf34  ./vendor.img
